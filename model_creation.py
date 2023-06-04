@@ -44,5 +44,5 @@ def model_creation():
 
 
 def save(model):
-    model.save("face_recognition_1epoch_test.h5")
+    model.save("face_recognition_100epoch_test.h5")
     print("Model Saved")
